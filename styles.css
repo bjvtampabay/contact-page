@@ -29,6 +29,7 @@ nav ul li a{
     height:100%;
     display: flex;
     justify-content: center;
+    flex-wrap: nowrap;
 
 }
 
@@ -52,5 +53,5 @@ nav ul li a{
 }
 
 .contact-form p{
-    flex-wrap: nowrap;
+  
 }
