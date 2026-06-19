@@ -50,3 +50,8 @@ nav ul li a{
     resize: none;
 
 }
+
+.contact-form p{
+    display:flex;
+    flex-direction: column;
+}
